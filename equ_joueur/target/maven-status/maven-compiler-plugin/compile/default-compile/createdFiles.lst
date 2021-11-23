@@ -1,0 +1,6 @@
+com\hazem\equ_joueur\repos\EquJoueurRepository.class
+com\hazem\equ_joueur\entities\Equipe.class
+com\hazem\equ_joueur\entities\Joueur.class
+com\hazem\equ_joueur\EquJoueurApplication.class
+com\hazem\equ_joueur\service\JoueurService.class
+com\hazem\equ_joueur\service\JoueurServiceImp.class
